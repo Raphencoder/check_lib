@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: check-lib
+Version: 0.0.1
+Summary: Proclame la bonne parole de sieurs Sam et Max
+Home-page: http://github.com/sametmax/sm_lib
+Author: Sam et Max
+Author-email: lesametlemax@gmail.com
+License: WTFPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved
+Classifier: Natural Language :: French
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Communications
